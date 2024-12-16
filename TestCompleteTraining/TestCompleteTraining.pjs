@@ -2,10 +2,12 @@
 <Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{0CE21C1E-0C16-42CD-86C3-CD965243572A}">
 	<children>
 		<child name="MSPaintProject" key="{BFDC4ECA-AAF1-46E0-96F3-F3AFF2BCF0B1}" path="MSPaintProject\MSPaintProject.mds" />
+		<child name="NotepadProject" key="{52387524-15EC-44B6-9EAE-7D15D21B7F88}" path="NotepadProject\NotepadProject.mds" />
 	</children>
 	<testItems key="{BE422EE0-AF5A-44DD-B859-2D460D80F8B3}">
 		<children>
 			<testItem key="{BFDC4ECA-AAF1-46E0-96F3-F3AFF2BCF0B1}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{52387524-15EC-44B6-9EAE-7D15D21B7F88}" enabled="True" timeout="0" stopOnError="True" description="" />
 		</children>
 	</testItems>
 	<variables key="{0C342A08-7A4B-4F96-838B-F572409D2DD5}" />

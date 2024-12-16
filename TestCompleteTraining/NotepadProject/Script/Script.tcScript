@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="NameMappingPractice" key="{64F5AD8C-8A83-4A6B-B789-038569490288}" path="NameMappingPractice.js" />
+	</children>
+</Root>

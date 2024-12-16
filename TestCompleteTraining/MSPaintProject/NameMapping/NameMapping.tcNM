@@ -3,6 +3,75 @@
 	<Storages Current="0">
 		<Child Name="Default Configuration" />
 	</Storages>
-	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}" />
-	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}" />
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{749814BE-B924-4F47-8916-E1CE328C225F}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="explorer" Key="{75E4F1F4-5905-4AAC-A2F9-E92225341322}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="explorer" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndShell_TrayWnd" Key="{319A7AC1-2CC5-4202-91BF-6813197161AF}">
+								<Image FileName="-2123255911" Left="0" Top="0" Right="1366" Bottom="48" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Shell_TrayWnd" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="DesktopWindowXamlSource" Key="{26E46CCC-073F-4042-937F-1ACE66D9AEF1}">
+										<Image FileName="-2123255911" Left="0" Top="0" Right="1366" Bottom="48" />
+										<TypeInfo Item0="{BB65DF47-422D-4774-9B21-2B585717D3CA}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Windows.UI.Composition.DesktopWindowContentBridge" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="DesktopWindowXamlSource" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="mspaint" Key="{EB3C959B-BFC7-41A5-8903-866A63C837D3}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="mspaint" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndMSPaintApp" Key="{957F550E-0CDF-4786-9F98-3B387CA8BB63}">
+								<TypeInfo Item0="{E080D3F4-7FF8-4155-869C-72B0683368F5}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="MSPaintApp" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="explorer" Owner="{75E4F1F4-5905-4AAC-A2F9-E92225341322}">
+			<Child Name="wndShell_TrayWnd" Owner="{319A7AC1-2CC5-4202-91BF-6813197161AF}">
+				<Child Name="DesktopWindowXamlSource" Owner="{26E46CCC-073F-4042-937F-1ACE66D9AEF1}" />
+			</Child>
+		</Child>
+		<Child Name="mspaint" Owner="{EB3C959B-BFC7-41A5-8903-866A63C837D3}">
+			<Child Name="wndMSPaintApp" Owner="{957F550E-0CDF-4786-9F98-3B387CA8BB63}" />
+		</Child>
+	</LogicalNodes>
 </Root>
