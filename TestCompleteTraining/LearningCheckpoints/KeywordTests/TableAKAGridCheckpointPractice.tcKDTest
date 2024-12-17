@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="15.0">
+	<TestData Description="" Key="{026504FB-B64B-4E5C-8AE8-546680A28431}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps />
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{29FFF95E-2F7A-4F60-9DCD-35FFD1DD1716}">
+				<Data Description="Compares the %n Stores item with the contents of the control." Checkpoint="OrdersView" />
+			</Operation>
+		</Children>
+	</TestData>
+	<Parameters Key="{A8E100B3-4640-4D0C-9C04-19328EB5C312}" />
+</Root>

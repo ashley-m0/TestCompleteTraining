@@ -3,11 +3,15 @@
 	<children>
 		<child name="MSPaintProject" key="{BFDC4ECA-AAF1-46E0-96F3-F3AFF2BCF0B1}" path="MSPaintProject\MSPaintProject.mds" />
 		<child name="NotepadProject" key="{52387524-15EC-44B6-9EAE-7D15D21B7F88}" path="NotepadProject\NotepadProject.mds" />
+		<child name="LearningCheckpoints" key="{F7BC517B-848A-41F7-A7F6-47D7D9FE2A91}" path="LearningCheckpoints\LearningCheckpoints.mds" />
+		<child name="LearningEvents" key="{414D0CCE-880D-40F8-A153-5C36EC2E74C6}" path="LearningEvents\LearningEvents.mds" />
 	</children>
 	<testItems key="{BE422EE0-AF5A-44DD-B859-2D460D80F8B3}">
 		<children>
 			<testItem key="{BFDC4ECA-AAF1-46E0-96F3-F3AFF2BCF0B1}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{52387524-15EC-44B6-9EAE-7D15D21B7F88}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{F7BC517B-848A-41F7-A7F6-47D7D9FE2A91}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{414D0CCE-880D-40F8-A153-5C36EC2E74C6}" enabled="True" timeout="0" stopOnError="True" description="" />
 		</children>
 	</testItems>
 	<variables key="{0C342A08-7A4B-4F96-838B-F572409D2DD5}" />

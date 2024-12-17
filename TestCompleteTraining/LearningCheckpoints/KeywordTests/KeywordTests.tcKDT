@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<child name="RegionCheckpointPractice" key="{4244F982-3F07-4CD2-80B9-703BEE7FA527}" path="RegionCheckpointPractice.tcKDTest" />
+		<child name="FileCheckpointPractice" key="{92842870-A7B7-4B2C-9D63-3BDC1F725F0E}" path="FileCheckpointPractice.tcKDTest" />
+		<child name="ObjectPropertyCheckpoint" key="{16367C35-A765-4DA0-8D6A-FC57FF9D80DC}" path="ObjectPropertyCheckpoint.tcKDTest" />
+		<child name="TableAKAGridCheckpointPractice" key="{460C48C1-05F5-4ABB-BCB0-10FD75DE2B9F}" path="TableAKAGridCheckpointPractice.tcKDTest" />
+		<child name="DDTPractice" key="{C905BABB-BA2E-4100-8889-FA2F7154483F}" path="DDTPractice.tcKDTest" />
+		<child name="DDTPracticeInternalTable" key="{F5955196-45BF-47DF-98B6-62CA44AF2A27}" path="DDTPracticeInternalTable.tcKDTest" />
+	</children>
+</Root>

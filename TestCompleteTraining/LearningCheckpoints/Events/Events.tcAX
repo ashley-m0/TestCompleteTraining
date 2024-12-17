@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}" version="1400" key="{61BE5B30-6E98-4DDC-AA0F-C425E5849FE4}" typeId="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}">
+	<config nodeName="Events" tlbHistory="&quot;TestComplete general events&quot;" />
+	<testData />
+	<data />
+	<children>
+		<child key="{9AF29F90-639D-47AF-BACF-6BBD52BE3042}">
+			<config nodeName="EventControl1" lastOpenedTLB="" generatedCLSID="{00000000-0000-0000-0000-000000000000}" generatedTLBKey="{00000000-0000-0000-0000-000000000000}" generatedEventsKey="{00000000-0000-0000-0000-000000000000}" generatedTLBDesc="" />
+			<testData />
+			<data />
+		</child>
+	</children>
+</Root>
